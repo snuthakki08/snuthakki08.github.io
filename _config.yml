@@ -1,10 +1,10 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title:  Welcome to Saikiran Nuthakki's Website
+author: Content Loading
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
+  A final year Computational Data Science Student with a rapidly developing interest in Artificial Intelligence.
 baseurl: ""
 
 plugins:
